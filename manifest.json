@@ -16,8 +16,8 @@
 		"default_popup": "popup.html"
 	},
 	"host_permissions": [
-		"http://192.168.254.254/",
-		"http://192.168.254.254/api/*"
+		"http://192.168.8.1/",
+		"http://192.168.8.1/api/*"
 	],
 	"web_accessible_resources": [
 		{
